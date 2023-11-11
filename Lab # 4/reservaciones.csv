@@ -1,0 +1,4 @@
+fechaVuelo;tipoVuelo;cantidadBoletos;aerolinea;username;numeroTarjeta;cuotas;claseVuelo;numeroAsiento;cantidadMaletas
+12 de enero;true;5;Avianca;ggarcia;1234;0;Primera clase;A12;3
+12 de abril;false;4;Avianca;admin;1234;12;Coach;Y57;1
+12 de enero;false;5;Avianca;jruiz;45321;0;Primera clase;A56;3
